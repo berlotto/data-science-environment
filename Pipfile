@@ -28,6 +28,11 @@ lmfit = "*"
 pygwalker = "*"
 itables = "*"
 summarytools = "*"
+jupyterlab-language-pack-pt-br = "*"
+ipympl = "*"
+lckr-jupyterlab-variableinspector = "*"
+jupyterlab-drawio = "*"
+eli5 = "*"
 
 [dev-packages]
 
