@@ -1,0 +1,35 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyterlab = "*"
+sklearn = "*"
+ipykernel = "*"
+pandas = "*"
+jupyter = "*"
+rasterio = "*"
+matplotlib = "*"
+seaborn = "*"
+earthpy = "*"
+plotly = "*"
+scipy = "*"
+statsmodels = "*"
+xgboost = "*"
+lightgbm = "*"
+catboost = "*"
+numpy = "*"
+jupyterlab-theme-solarized-dark = "*"
+jupyterthemes = "*"
+openpyxl = "*"
+skimpy = "*"
+lmfit = "*"
+pygwalker = "*"
+itables = "*"
+summarytools = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
