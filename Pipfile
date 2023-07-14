@@ -34,6 +34,11 @@ lckr-jupyterlab-variableinspector = "*"
 jupyterlab-drawio = "*"
 eli5 = "*"
 tensorflow = "*"
+jupyterlab-git = "*"
+nbdime = "*"
+jupyter-scatter = "*"
+jupyter-scheduler = "*"
+pandasql = "*"
 
 [dev-packages]
 
