@@ -33,6 +33,7 @@ ipympl = "*"
 lckr-jupyterlab-variableinspector = "*"
 jupyterlab-drawio = "*"
 eli5 = "*"
+tensorflow = "*"
 
 [dev-packages]
 
