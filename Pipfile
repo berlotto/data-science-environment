@@ -39,6 +39,13 @@ nbdime = "*"
 jupyter-scatter = "*"
 jupyter-scheduler = "*"
 pandasql = "*"
+jupyterlab-fonts = "*"
+jupyterlab-lsp = "*"
+jupyterlab-horizon-theme = "*"
+python-lsp-server = {extras = ["all"], version = "*"}
+jupyterlab-geojson = "*"
+install = "*"
+jupyter-bokeh = "*"
 
 [dev-packages]
 
