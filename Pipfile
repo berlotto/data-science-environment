@@ -52,3 +52,6 @@ jupyterlab-visualpython = "*"
 
 [requires]
 python_version = "3.11"
+
+[scripts]
+lab = "jupyter-lab --notebook-dir=../"
