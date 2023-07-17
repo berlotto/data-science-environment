@@ -46,6 +46,7 @@ python-lsp-server = {extras = ["all"], version = "*"}
 jupyterlab-geojson = "*"
 install = "*"
 jupyter-bokeh = "*"
+jupyterlab-visualpython = "*"
 
 [dev-packages]
 
