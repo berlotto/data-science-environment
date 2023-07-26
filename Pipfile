@@ -47,6 +47,8 @@ jupyterlab-geojson = "*"
 install = "*"
 jupyter-bokeh = "*"
 jupyterlab-visualpython = "*"
+diagrams = "*"
+modin = {extras = ["dask"], version = "*"}
 
 [dev-packages]
 
@@ -54,4 +56,4 @@ jupyterlab-visualpython = "*"
 python_version = "3.11"
 
 [scripts]
-lab = "jupyter-lab --notebook-dir=../"
+lab = "jupyter-lab --notebook-dir=../jupyter-notebooks/"
