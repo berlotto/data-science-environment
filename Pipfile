@@ -51,6 +51,7 @@ diagrams = "*"
 modin = {extras = ["dask"], version = "*"}
 jupyter-collaboration = "*"
 mitosheet = "*"
+stickyland = "*"
 
 [dev-packages]
 
