@@ -1,1 +1,1 @@
-pipenv run jupyter-lab --notebook-dir=../
+pipenv run jupyter-lab --collaborative --notebook-dir=../jupyter-notebooks/
